@@ -32,3 +32,18 @@ h3>Q-3: How to run the java code in command line?</h3>
    <i style="color:green">e.g.   java [file-name]</i></p>
 
    $ javac first.java
+=======
+# java-carnival-learning
+<p> Those programs which I have practiced while learning JAVA are uploaded here.</p>
+
+# software-used
+<li> Notepad </li>
+<li> Command Line (Windows)</li>
+
+# Questions -
+<li> <b> How to create file with .java extension using command line? </b><li>
+  <p style="color:blue;">using command</p>
+    """
+    notepad <file-name>.java
+    """
+>>>>>>> e74893c2ff0e02ee9288ee27114ac6a1ff369625
