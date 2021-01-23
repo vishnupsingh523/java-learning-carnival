@@ -1,7 +1,4 @@
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/vishnupsingh523/java-learning-carnival?label=Fork&style=for-the-badge">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/vishnupsingh523/java-learning-carnival?style=for-the-badge">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/vishnupsingh523/java-learning-carnival?style=for-the-badge">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishnupsingh523/java-learning-carnival?style=for-the-badge">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/vishnupsingh523/java-learning-carnival?label=Fork&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/vishnupsingh523/java-learning-carnival?style=for-the-badge"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/vishnupsingh523/java-learning-carnival?style=for-the-badge"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishnupsingh523/java-learning-carnival?style=for-the-badge">
 
 # java-learning-carnival
 <p> Those programs which I have practiced while learning JAVA are uploaded here. Which includes all teh basics of JAVA and some programs like : <br>
