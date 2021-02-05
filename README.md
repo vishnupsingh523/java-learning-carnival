@@ -8,6 +8,9 @@ Fibonacci Series
 Armstrong Number
 Prime Number
 Conditional Statements programs
+Different method calling
+initialisation of objects
+Arrays : 1-D and 2-D
 And many more ...
 ```
 
@@ -16,7 +19,9 @@ And many more ...
 <li> Command Line (Windows)</li>
 
 ```
-NOTE: We can also use any IDE's like NETBEANS and others but for remembering the commands of java at the starting we should work in notepad and command-line only, this will increase our speed of typing and also decrease our laziness of typing long codes.
+NOTE: We can also use any IDE's like NETBEANS and others but for remembering the commands of java
+ at the starting we should work in notepad and command-line only, this will increase our speed of
+  typing and also decrease our laziness of typing long codes.
 ```
 
 # Query:
