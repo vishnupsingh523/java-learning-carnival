@@ -10,6 +10,7 @@ public class comparingStrings{
         System.out.println("Strings Equal or not : "+s.equals(n));
 
         System.out.println("Compares:"+s.compareTo(n));        
+        System.out.println(s.charAt(8));
 
 
     }
