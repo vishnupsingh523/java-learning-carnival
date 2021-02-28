@@ -1,4 +1,7 @@
 class A {
+    A(){
+        System.out.println("A");
+    }
 
     A(int x){System.out.print("HI");}
 }
