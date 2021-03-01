@@ -10,6 +10,7 @@ public class Question12{
         al.add(2,5);
         al.add(1,4);
         al.add(0,2);
+        
         // int _1;
         // int x = 1;
         // it gives 4
