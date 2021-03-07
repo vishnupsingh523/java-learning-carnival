@@ -1,4 +1,5 @@
 // to calculate the area of two rectangle
+//hello
 import java.util.Scanner;
 
 class Fouth
