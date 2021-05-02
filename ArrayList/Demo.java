@@ -1,5 +1,5 @@
 public class Demo {
-   int x =10;
+   static int x =10;
    static { x++;}
    {x++;}
    
@@ -7,7 +7,7 @@ public class Demo {
    
    public static void main(String [] args){
        Demo ob = new Demo();
-       System.out.println(ob.x);
+       System.out.println(x);
 
     // output: Compilation error 
     /* 
